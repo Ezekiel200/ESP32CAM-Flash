@@ -8,7 +8,7 @@
 //cada 500 ms.
 
 
-//Definición de pines
+//Definición de pines 5 aqui hice el cambio para usar el fork
 #define LAMP 4 //Se selecciona el pin donde se encuentra el led flash
 
 //Inicialización del programa
